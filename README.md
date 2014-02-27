@@ -1,4 +1,4 @@
-solusvm
+solusvm client check/reboot
 =======
 
 solusvm client check and reboot for semoweb( and others of course ).
